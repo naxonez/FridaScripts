@@ -1,1 +1,2 @@
-# Frida
+# Frida Scripts
+Random Frida scripts
